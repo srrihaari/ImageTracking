@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
 ## File Structure
 /marker-drummer-raccoon ├── index.html ├── main.js ├── libs/ │ └── mindar/ │ └── mindar-image-three.prod.js │ └── loader.js ├── asserts/ │ ├── models/ │ │ └── musicband-raccoon/scene.gltf │ ├── sounds/ │ │ └── musicband-background.mp3 │ └── musicband.mind └── README.md
 ## OUTPUT:
-<img width="607" height="324" alt="Screenshot 2025-11-23 114409" src="https://github.com/user-attachments/assets/14bbae49-c28d-4d24-acdd-c83b53d98473" />
+<img width="945" height="325" alt="Screenshot 2025-11-23 114613" src="https://github.com/user-attachments/assets/59ff7fc1-182e-46e8-b1b6-c19de48523f8" />
 
 
 ## RESULT:
